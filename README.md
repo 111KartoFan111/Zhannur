@@ -34,6 +34,7 @@ npm install
 5. Установите зависимости фронтенда:
    ```sh
    npm install
+   npm install @testing-library/jest-dom @testing-library/react @testing-library/user-event @types/jest @types/react @types/react-dom axios cors emailjs-com express pg prop-types react react-dom react-router-dom web-vitals
    ```
 6. Запустите фронтенд:
    ```sh
